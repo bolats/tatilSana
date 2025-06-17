@@ -1,6 +1,6 @@
 
 import React from "react";
-import { tours } from "@/data/tours";
+import { tours } from "@/data/tours.jsx";
 import { hotels as allHotelsData } from "@/data/hotels.js"; // Import from .js file
 import { testimonials } from "@/data/testimonials";
 import HeroSection from "@/components/homepage/HeroSection";
